@@ -50,7 +50,7 @@ public class MainActivity extends Activity {
         super.onActivityResult(requestCode, resultCode, data);
         if(resultCode != 0) {
             AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
-            builder = builder.setMessage("User Denied").setPositiveButton("Confirm", new DialogInterface.OnClickListener() {
+            builder = builder.setMessage("Error").setPositiveButton("Confirm", new DialogInterface.OnClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which) {
                 }
