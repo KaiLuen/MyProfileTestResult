@@ -1,5 +1,7 @@
 INTRO
 
+<My Profile application URL: https://play.google.com/store/apps/details?id=cityforfun.myprofile>
+
 This app is a service for the other app can get user's data easily, and  we catch easily form this app.
 
 There are three parts of an content object, "Key" , "User Define Name" and "Content".
